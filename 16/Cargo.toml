@@ -1,0 +1,7 @@
+[package]
+name = "16"
+version = "0.1.0"
+authors = ["Joe Rozner <joe@deadbytes.net>"]
+
+[dependencies]
+"ramp" = "0.1.6"
